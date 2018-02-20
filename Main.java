@@ -28,7 +28,7 @@ public class Main {
           boolean x = true;
                         while(x){
                             System.out.println("MENU");
-                            System.out.println("1. Arraylist");
+                            System.out.println(".1. Arraylist");
                             System.out.println("2. Vector");
                             System.out.println("3. Lista Single");
                             System.out.println("4. Lista Doble");
