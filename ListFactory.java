@@ -14,7 +14,9 @@ public class ListFactory {
             return new SingleLinkList();
         }else if("4".equals(imp)){
             return new DoublyLinkList();
-        }else
+        }else if ("5".equals(imp)){
+            return new CircularList();
+    }
         return null;
     }
 }
