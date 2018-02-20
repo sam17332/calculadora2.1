@@ -63,7 +63,8 @@ public class Main {
                                        System.out.println("Respuesta: " + main.calcular(linea,"5") + "\n");                
                                         
                                     }
-                                
+                                    default:
+                                        break;
 
         
         
